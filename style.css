@@ -1,0 +1,50 @@
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwVQ_KNe890x_bTU93NLhjYI4OFcypWToA8w&usqp=CAU);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    background-color: blanchedalmond;
+    cursor: crosshair;
+}
+
+h1{
+    color:goldenrod; 
+    text-align:center;
+}
+h2{
+    color:goldenrod;
+    text-align:center;
+}
+ul{
+    text-align: center;
+    list-style-type: none;
+    color: goldenrod;
+}
+img{
+    margin: 0 auto;
+    display: block;
+}
+table,tr,td{
+    margin:40px auto;
+    width: 300px;
+    border: 10px solid goldenrod;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+button{
+    margin:40px auto;
+    display: block;
+    background-color: goldenrod;
+    
+}
+button:hover{
+    color:;
+}
+footer{
+    text-align: center;
+}
